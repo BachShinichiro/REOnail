@@ -5,6 +5,10 @@
 @import url(https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap);
 /* 斜線が入る特殊な文字 */
 @import url(https://fonts.googleapis.com/css2?family=Faster+One&display=swap);
+/* かっこいい筆記体 */
+@import url(https://fonts.googleapis.com/css2?family=Pacifico&display=swap);
+
+
 
 /* reset */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
@@ -19,6 +23,9 @@ img,abbr,acronym,fieldset{border:0;}
 
 #header h2 {
 	font-family: 'Noto Sans JP';
+}
+h2 {
+	font-family: 'Pacifico', cursive;
 }
 
 body{
